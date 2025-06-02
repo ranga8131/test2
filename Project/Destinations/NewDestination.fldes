@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\rannan\ranga4"
+  Port=""
+  ViewUrl="https://github.com/ranga8131/test2"
+  Type="scm"
+  ProviderType="Git"
+  Database="C:\Users\rannan\ranga4\.git"
+  DatabaseRoot="C:\Users\rannan\ranga4"
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>
