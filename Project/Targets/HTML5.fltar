@@ -6,10 +6,10 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
-  DefaultUrl="/Content/Home.htm"
   ShowMadCapBacklink="true"
   MasterToc="/Project/TOCs/TOC.fltoc"
-  ResolveCssVariables="true">
+  ResolveCssVariables="true"
+  DefaultUrl="/Content/home.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
