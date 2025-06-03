@@ -9,7 +9,7 @@
   ShowMadCapBacklink="true"
   MasterToc="/Project/TOCs/TOC.fltoc"
   ResolveCssVariables="true"
-  DefaultUrl="/Content/home.htm">
+  DefaultUrl="/Content/index.htm">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
